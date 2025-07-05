@@ -90,6 +90,5 @@ CROWDFUNDING-CONSOLE-APP/
 
 **Mohamed Elwaly**
 Fullstack Developer – Python | Django | React
-[GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/) | [Portfolio](https://your-portfolio.com)
-
+[GitHub](https://github.com/)
 ---
